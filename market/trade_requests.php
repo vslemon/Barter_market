@@ -95,7 +95,7 @@ $u_id = $_GET['u_id'];
 								<h4>Notes:</h4>
 								<p>$note</p>
 								<h4>Quantity:</h4>
-								<p>$qty</p>
+								<p>$trade_qty</p>
 
 								<br>								
 							</div>
